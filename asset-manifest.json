@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MedicalSupply/static/css/main.141b4459.chunk.css",
+    "main.js": "/MedicalSupply/static/js/main.69123e39.chunk.js",
+    "main.js.map": "/MedicalSupply/static/js/main.69123e39.chunk.js.map",
+    "runtime-main.js": "/MedicalSupply/static/js/runtime-main.afbfb658.js",
+    "runtime-main.js.map": "/MedicalSupply/static/js/runtime-main.afbfb658.js.map",
+    "static/js/2.659cceb9.chunk.js": "/MedicalSupply/static/js/2.659cceb9.chunk.js",
+    "static/js/2.659cceb9.chunk.js.map": "/MedicalSupply/static/js/2.659cceb9.chunk.js.map",
+    "static/js/3.5946d0d2.chunk.js": "/MedicalSupply/static/js/3.5946d0d2.chunk.js",
+    "static/js/3.5946d0d2.chunk.js.map": "/MedicalSupply/static/js/3.5946d0d2.chunk.js.map",
+    "index.html": "/MedicalSupply/index.html",
+    "static/css/main.141b4459.chunk.css.map": "/MedicalSupply/static/css/main.141b4459.chunk.css.map",
+    "static/js/2.659cceb9.chunk.js.LICENSE.txt": "/MedicalSupply/static/js/2.659cceb9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MedicalSupply/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afbfb658.js",
+    "static/js/2.659cceb9.chunk.js",
+    "static/css/main.141b4459.chunk.css",
+    "static/js/main.69123e39.chunk.js"
+  ]
+}
